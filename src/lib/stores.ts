@@ -3,10 +3,9 @@ import { pb } from "./pocketbase";
 
 export const menuList = writable({});
 export const menuNames = writable();
-export const shoppingList = writable({});
 export const ingredientList = writable({});
 export const recipeList = writable({});
-export const currentShoppingList = writable({});
+export const menuPage = writable(1);
 
 
 

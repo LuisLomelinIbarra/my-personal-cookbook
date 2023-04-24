@@ -9,6 +9,7 @@ For this project I am using the following:
 * [Pocketbase](https://pocketbase.io/) *(as the database for storage)*
 * [Tailwind](https://tailwindcss.com/)
 * [Feather](https://feathericons.com/) *(For Icons)*
+* [Dicebear](https://www.dicebear.com) *(For Avatar Icons)*
 
 
 Right now it is still a work in progress as of now. I will be updating everything as I go along
